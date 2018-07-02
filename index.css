@@ -26,4 +26,5 @@ footer {
   display: flex;
   height: 100vw;
   width: 100vw;
+  flex-direction: column;
 }
